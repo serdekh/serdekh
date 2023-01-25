@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @serdekh
 - 👀 I’m interested in backend and gamedev
-- 🌱 I’m currently learning JS, Node.js, C, Unity
-- 💞️ I’m looking to collaborate on JS
+- 🌱 I’m currently learning C, C#
+- 💞️ I’m looking to collaborate on C#
 - 📫 How to reach me telegram: @serdekh
 
 <!---
