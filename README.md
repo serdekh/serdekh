@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @serdekh
-- 👀 I’m interested in backend
-- 🌱 I’m currently learning C, Rust (no projects in Rust yet)
-- 💞️ I’m looking to collaborate on C, Rust
+- 👀 I’m interested in backend, ASP.NET Core
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on C#
 - 📫 How to reach me telegram: @SerhiiDekhtiarov
 
 <!---
